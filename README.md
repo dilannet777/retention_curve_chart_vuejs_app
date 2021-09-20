@@ -1,4 +1,10 @@
-# chartapp
+# Weekly Retention Curve - Vuejs App
+
+Retention curve chart that shows how far a group of users (weekly cohorts) has progressed through the Onboarding Flow.
+
+![Screen Shot 2021-09-20 at 12 28 00 PM](https://user-images.githubusercontent.com/80531625/133966823-2b41fcb9-c591-4c06-9976-3dbdcc9147f3.png)
+
+
 
 ## Project setup
 ```
