@@ -35,6 +35,6 @@ yarn lint
 
 Demo : [Click Here](https://code1.codesands.com/)
 
-### API for the retention calculation
+### Backend Code
 
 GitHub URL : [Click Here](https://github.com/dilannet777/retention_curve_chart_api)
